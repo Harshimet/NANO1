@@ -1,4 +1,4 @@
-from twone import twenty_one
+from twentyone import twenty_one
 from Nummerraadspel import nummerraadspel
 from rock_paper import rock_paper_scissors
 
